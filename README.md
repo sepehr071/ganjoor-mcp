@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/sepehr071/ganjoor-mcp/main/.github/banner.png" alt="ganjoor-mcp: unofficial Ganjoor (گنجور) MCP server that finds which poem a quoted Persian couplet comes from, reads classical Persian poetry with couplet meanings, and searches poets, meters and recitations for Claude, Cursor and Copilot" width="100%">
+
 # ganjoor-mcp: Ganjoor (گنجور) Persian poetry MCP server for AI agents
 
 **ganjoor-mcp is an unofficial, read-only MCP server that lets an AI agent read, search and explain classical Persian poetry on Ganjoor (گنجور, ganjoor.net), the open library of 240+ poets and 139,000 poems.**<br>
