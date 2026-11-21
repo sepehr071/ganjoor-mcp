@@ -1,0 +1,91 @@
+{
+ "data": {
+  "id": "d64eb329-b405-46d1-ae37-08dee02f49b0",
+  "friendlyUrl": "nowras",
+  "status": 4,
+  "name": "دیوان نورس دماوندی به شمارهٔ Or. 3644 کتابخانهٔ بریتانیا",
+  "nameInEnglish": "دیوان نورس دماوندی به شمارهٔ Or. 3644 کتابخانهٔ بریتانیا",
+  "description": "Divan-i Nawras, MS. Or. 3644, British Library, London<br/>",
+  "descriptionInEnglish": "extracted from server folder C:\\Tools\\nowras\\files",
+  "dateTime": "2026-07-12T19:33:57.9945958",
+  "lastModified": "2026-08-25T18:43:11.2763517",
+  "coverItemIndex": 20,
+  "coverImage": {
+   "externalNormalSizeImageUrl": "https://i.ganjoor.net/images/nowras/norm/0021.jpg"
+  },
+  "coverImageId": "b9cdbec5-43a4-4520-f0ed-08dedfe38b48",
+  "items": [
+   {
+    "images": [
+     {
+      "externalNormalSizeImageUrl": "https://i.ganjoor.net/images/nowras/norm/0001.jpg"
+     }
+    ]
+   },
+   {
+    "images": [
+     {
+      "externalNormalSizeImageUrl": "https://i.ganjoor.net/images/nowras/norm/0002.jpg"
+     }
+    ]
+   },
+   {
+    "images": [
+     {
+      "externalNormalSizeImageUrl": "https://i.ganjoor.net/images/nowras/norm/0003.jpg"
+     }
+    ]
+   }
+  ],
+  "itemCount": 344,
+  "tags": null,
+  "artifactTags": [
+   {
+    "name": "نام کتاب",
+    "values": [
+     {
+      "value": "دیوان نورس دماوندی"
+     }
+    ]
+   },
+   {
+    "name": "پدیدآورنده",
+    "values": [
+     {
+      "value": "نورس دماوندی"
+     }
+    ]
+   },
+   {
+    "name": "نکات",
+    "values": [
+     {
+      "value": "عنوان\tدیوان نورس دماوندی\nعنوان لاتین\tDīvān-i Nawras / Divan-i Nawras\nپدیدآور\tمحمدحسین نورس دماوندی\nتخلص\tنورس\nزبان\tفارسی\nنوع اثر\tدیوان شعر / مجموعهٔ آثار شاعر\nدوره\tصفوی، قرن ۱۱ هجری\nدورهٔ زندگی شاعر\tقرن ۱۱ق؛ درگذشته پس از ۱۱۰۵ق\nمحل نگهداری\tBritish Library, London\nشمارهٔ نسخه\tOr. 3644\nمرجع کتاب‌شناختی\tRieu, Catalogue of the Persian Manuscripts in the British Museum, 1895، ص. ۲۱۰، شمارهٔ ۳۳۳\nخط\tنستعلیق\nکاتب\tمحمدحسین نورس دماوندی؛ نسخه به خط مؤلف (autograph)\nتاریخ کتابت\tنامعلوم\nتعداد برگ\tحدود ۱۷۳ برگ؛ نیازمند تأیید قطعی\nمحتوا\tمجموعه‌ای از اشعار و آثار نورس، شامل غزلیات، قصاید، رباعیات، قطعات، مثنویات و متفرقات\nاثر شاخص موجود در نسخه\tشهرآشوب خیال\nمحل شهرآشوب خیال\tحوالی برگ‌های ۱۶۹ به بعد؛ در تصویر 0334 شمارهٔ برگ ۱۶۹ و عبارت «شهرآشوب خیال» دیده می‌شود\nآرایه‌ها\tدارای تذهیب و تزئینات نفیس، به‌ویژه در صفحات آغازین\nوضعیت نسخه\tنسخهٔ خطی مؤلف (Autograph Manuscript)\nمنبع تصاویر دیجیتال\tنسخهٔ دیجیتال‌شدهٔ قدیمی British Library؛ تصاویر در اختیار گنجینهٔ گنجور\nشناسهٔ دیجیتال موجود\tفایل‌های تصویری با الگوی or_3644-...\nتوضیح\tنسخه‌ای نفیس از دیوان محمدحسین نورس دماوندی، شاعر و خوشنویس دورهٔ صفوی؛ این نسخه در منابع پژوهشی به‌عنوان نسخهٔ به خط مؤلف معرفی شده است."
+     }
+    ]
+   }
+  ],
+  "rTagSums": [],
+  "contents": [
+   {
+    "title": "نورس دماوندی » قصاید » شمارهٔ ۳ - در منقبت امام ثامن (فخر القصاید) - بسته ام تا در رهش بر باد پا نعل شتاب",
+    "order": 1,
+    "level": 1,
+    "itemFriendlyUrl": "p0021"
+   },
+   {
+    "title": "نورس دماوندی » غزلیات » شمارهٔ ۱ - طراز اسم اعظم داشت چون خاتم سلیمان را",
+    "order": 2,
+    "level": 1,
+    "itemFriendlyUrl": "p0073"
+   },
+   {
+    "title": "نورس دماوندی » غزلیات » شمارهٔ ۲ - الهی کیمیایی طور ده مشت گل ما را",
+    "order": 3,
+    "level": 1,
+    "itemFriendlyUrl": "p0074"
+   }
+  ]
+ },
+ "paging": {}
+}

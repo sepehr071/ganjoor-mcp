@@ -1,0 +1,139 @@
+{
+ "data": [
+  {
+   "id": 7,
+   "poemId": 2132,
+   "poem": null,
+   "coupletIndex": 0,
+   "deviceId": 4,
+   "device": null,
+   "uncertain": false,
+   "note": null,
+   "origin": 1,
+   "originRef": "persian-literary-corpus-1.0.0 (MIT)",
+   "createdByUserId": null,
+   "createDate": "2026-10-16T08:48:06.205966",
+   "parts": [
+    {
+     "id": 14,
+     "tagId": 7,
+     "slotId": 9,
+     "coupletIndex": 0,
+     "misra": 2,
+     "wordStart": 3,
+     "wordEnd": 3,
+     "conceptId": null,
+     "concept": null,
+     "text": null,
+     "order": 0
+    },
+    {
+     "id": 15,
+     "tagId": 7,
+     "slotId": 10,
+     "coupletIndex": 0,
+     "misra": 0,
+     "wordStart": null,
+     "wordEnd": null,
+     "conceptId": 9,
+     "concept": {
+      "id": 9,
+      "name": "غلام سیاه",
+      "aliases": null,
+      "parentId": null,
+      "status": 1,
+      "createdByUserId": null,
+      "createDate": "2026-10-16T08:48:06.205966"
+     },
+     "text": null,
+     "order": 1
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "poemId": 2132,
+   "poem": null,
+   "coupletIndex": 1,
+   "deviceId": 5,
+   "device": null,
+   "uncertain": false,
+   "note": null,
+   "origin": 1,
+   "originRef": "persian-literary-corpus-1.0.0 (MIT)",
+   "createdByUserId": null,
+   "createDate": "2026-10-16T08:48:06.205966",
+   "parts": [
+    {
+     "id": 16,
+     "tagId": 8,
+     "slotId": 11,
+     "coupletIndex": 1,
+     "misra": 1,
+     "wordStart": 3,
+     "wordEnd": 4,
+     "conceptId": null,
+     "concept": null,
+     "text": null,
+     "order": 0
+    },
+    {
+     "id": 17,
+     "tagId": 8,
+     "slotId": 12,
+     "coupletIndex": 1,
+     "misra": 0,
+     "wordStart": null,
+     "wordEnd": null,
+     "conceptId": null,
+     "concept": null,
+     "text": "می بقابخش",
+     "order": 1
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "poemId": 2132,
+   "poem": null,
+   "coupletIndex": 1,
+   "deviceId": 6,
+   "device": null,
+   "uncertain": false,
+   "note": null,
+   "origin": 1,
+   "originRef": "persian-literary-corpus-1.0.0 (MIT)",
+   "createdByUserId": null,
+   "createDate": "2026-10-16T08:48:06.205966",
+   "parts": [
+    {
+     "id": 18,
+     "tagId": 9,
+     "slotId": 13,
+     "coupletIndex": 1,
+     "misra": 1,
+     "wordStart": 2,
+     "wordEnd": 2,
+     "conceptId": null,
+     "concept": null,
+     "text": null,
+     "order": 0
+    },
+    {
+     "id": 19,
+     "tagId": 9,
+     "slotId": 14,
+     "coupletIndex": 1,
+     "misra": 1,
+     "wordStart": 4,
+     "wordEnd": 4,
+     "conceptId": null,
+     "concept": null,
+     "text": null,
+     "order": 1
+    }
+   ]
+  }
+ ],
+ "paging": {}
+}

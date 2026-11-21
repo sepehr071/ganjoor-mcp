@@ -1,0 +1,113 @@
+{
+ "data": {
+  "rootId": 1,
+  "persons": [
+   {
+    "id": 1,
+    "name": "کیومرث"
+   },
+   {
+    "id": 2,
+    "name": "سیامک"
+   },
+   {
+    "id": 4,
+    "name": "هوشنگ"
+   },
+   {
+    "id": 5,
+    "name": "طهمورث"
+   },
+   {
+    "id": 6,
+    "name": "جمشید"
+   },
+   {
+    "id": 7,
+    "name": "مرداس"
+   }
+  ],
+  "relations": [
+   {
+    "person1Id": 1,
+    "person2Id": 2,
+    "relationType": 0,
+    "degreeHint": null,
+    "relationId": 1,
+    "state": null,
+    "attestedIn": [
+     "شاهنامه"
+    ]
+   },
+   {
+    "person1Id": 2,
+    "person2Id": 4,
+    "relationType": 0,
+    "degreeHint": null,
+    "relationId": 2,
+    "state": null,
+    "attestedIn": [
+     "شاهنامه"
+    ]
+   },
+   {
+    "person1Id": 4,
+    "person2Id": 5,
+    "relationType": 0,
+    "degreeHint": null,
+    "relationId": 3,
+    "state": null,
+    "attestedIn": [
+     "شاهنامه",
+     "گرشاسپ‌نامه"
+    ]
+   },
+   {
+    "person1Id": 5,
+    "person2Id": 6,
+    "relationType": 0,
+    "degreeHint": null,
+    "relationId": 5,
+    "state": null,
+    "attestedIn": [
+     "شاهنامه"
+    ]
+   },
+   {
+    "person1Id": 1,
+    "person2Id": 4,
+    "relationType": 3,
+    "degreeHint": null,
+    "relationId": 144,
+    "state": null,
+    "attestedIn": [
+     "شاهنامه"
+    ]
+   }
+  ],
+  "masterCatId": null,
+  "books": [
+   {
+    "id": 33,
+    "title": "شاهنامه",
+    "relationCount": 291
+   },
+   {
+    "id": 2583,
+    "title": "کوش‌نامه",
+    "relationCount": 4
+   },
+   {
+    "id": 111,
+    "title": "خمسه",
+    "relationCount": 3
+   },
+   {
+    "id": 1737,
+    "title": "گرشاسپ‌نامه",
+    "relationCount": 1
+   }
+  ]
+ },
+ "paging": {}
+}

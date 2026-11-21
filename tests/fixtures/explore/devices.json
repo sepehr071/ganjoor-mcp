@@ -1,0 +1,277 @@
+{
+ "data": [
+  {
+   "id": 1,
+   "key": "tashbih",
+   "name": "تشبیه",
+   "category": 0,
+   "definition": "همانندی دو چیز با ذکر دست‌کم مشبّه و مشبّه‌به.",
+   "example": "«رخ تو ماه است»: مشبّه رخ، مشبّه‌به ماه. اگر مشبّه حذف شده باشد استعاره است.",
+   "source": null,
+   "isCore": true,
+   "status": 1,
+   "suggestedByUserId": null,
+   "createDate": "2026-10-16T08:09:32.5774034",
+   "reviewNote": null,
+   "slots": [
+    {
+     "id": 1,
+     "deviceId": 1,
+     "key": "tenor",
+     "name": "مشبّه",
+     "kind": 1,
+     "required": true,
+     "allowMultiple": false,
+     "order": 0
+    },
+    {
+     "id": 2,
+     "deviceId": 1,
+     "key": "vehicle",
+     "name": "مشبّه‌به",
+     "kind": 1,
+     "required": true,
+     "allowMultiple": false,
+     "order": 1
+    },
+    {
+     "id": 3,
+     "deviceId": 1,
+     "key": "ground",
+     "name": "وجه شبه",
+     "kind": 3,
+     "required": false,
+     "allowMultiple": false,
+     "order": 2
+    },
+    {
+     "id": 4,
+     "deviceId": 1,
+     "key": "particle",
+     "name": "ادات",
+     "kind": 0,
+     "required": false,
+     "allowMultiple": false,
+     "order": 3
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "key": "esteare",
+   "name": "استعاره",
+   "category": 0,
+   "definition": "به‌کاربردن واژه برای چیزی جز معنای نخستین، با قرینهٔ مانع از معنای اصلی و علاقهٔ مشابهت.",
+   "example": "«سرو می‌آید» برای قامت یار. اگر علاقه غیر مشابهت باشد مجاز است.",
+   "source": null,
+   "isCore": true,
+   "status": 1,
+   "suggestedByUserId": null,
+   "createDate": "2026-10-16T08:09:32.6353406",
+   "reviewNote": null,
+   "slots": [
+    {
+     "id": 5,
+     "deviceId": 2,
+     "key": "vehicle",
+     "name": "مستعارٌمنه",
+     "kind": 1,
+     "required": true,
+     "allowMultiple": false,
+     "order": 0
+    },
+    {
+     "id": 6,
+     "deviceId": 2,
+     "key": "tenor",
+     "name": "مستعارٌله",
+     "kind": 2,
+     "required": true,
+     "allowMultiple": false,
+     "order": 1
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "key": "kenaye",
+   "name": "کنایه",
+   "category": 0,
+   "definition": "عبارتی که معنای دوم دارد و معنای حقیقی‌اش هم می‌تواند مراد باشد.",
+   "example": "«دست به دست مالیدن». اگر معنای حقیقی ممکن نباشد استعاره یا مجاز است.",
+   "source": null,
+   "isCore": true,
+   "status": 1,
+   "suggestedByUserId": null,
+   "createDate": "2026-10-16T08:09:32.6387589",
+   "reviewNote": null,
+   "slots": [
+    {
+     "id": 7,
+     "deviceId": 3,
+     "key": "expression",
+     "name": "کنایه‌شونده",
+     "kind": 0,
+     "required": true,
+     "allowMultiple": false,
+     "order": 0
+    },
+    {
+     "id": 8,
+     "deviceId": 3,
+     "key": "meaning",
+     "name": "معنای دوم",
+     "kind": 3,
+     "required": true,
+     "allowMultiple": false,
+     "order": 1
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "key": "majaz",
+   "name": "مجاز",
+   "category": 0,
+   "definition": "واژه در معنای غیرحقیقی با علاقه‌ای جز مشابهت و با قرینهٔ مانع.",
+   "example": "«دل» برای عاشق، «جام» برای شراب.",
+   "source": null,
+   "isCore": true,
+   "status": 1,
+   "suggestedByUserId": null,
+   "createDate": "2026-10-16T08:09:32.6391158",
+   "reviewNote": null,
+   "slots": [
+    {
+     "id": 9,
+     "deviceId": 4,
+     "key": "word",
+     "name": "واژه",
+     "kind": 0,
+     "required": true,
+     "allowMultiple": false,
+     "order": 0
+    },
+    {
+     "id": 10,
+     "deviceId": 4,
+     "key": "meaning",
+     "name": "معنای مرتبط",
+     "kind": 2,
+     "required": true,
+     "allowMultiple": false,
+     "order": 1
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "key": null,
+   "name": "تشخیص",
+   "category": 0,
+   "definition": "نسبت‌دادن ویژگی‌ها یا کارهای انسان یا جاندار به چیزی بی‌جان یا انتزاعی.",
+   "example": "مثلاً «دست صبر»، «پای عقل»، «مرغ سحر ناله سر کرد». اگر مشبه‌به (انسان) در متن نیامده و فقط لازمه‌اش آمده باشد، با استعارهٔ مکنیه هم‌پوشانی دارد.",
+   "source": null,
+   "isCore": false,
+   "status": 1,
+   "suggestedByUserId": "a9cb3463-e442-455a-12a3-08d72ca64fca",
+   "createDate": "2026-10-16T21:33:46.901451",
+   "reviewNote": null,
+   "slots": [
+    {
+     "id": 32,
+     "deviceId": 13,
+     "key": null,
+     "name": "چیز بی‌جان یا انتزاعی",
+     "kind": 0,
+     "required": true,
+     "allowMultiple": false,
+     "order": 0
+    },
+    {
+     "id": 33,
+     "deviceId": 13,
+     "key": null,
+     "name": "ویژگی یا کار انسانی",
+     "kind": 0,
+     "required": true,
+     "allowMultiple": false,
+     "order": 1
+    },
+    {
+     "id": 34,
+     "deviceId": 13,
+     "key": null,
+     "name": "توضیح",
+     "kind": 3,
+     "required": false,
+     "allowMultiple": false,
+     "order": 2
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "key": "jenas",
+   "name": "جناس",
+   "category": 1,
+   "definition": "دو واژه در یک مصراع یا بیت با تلفظ یکسان یا بسیار نزدیک و معنای متفاوت.",
+   "example": "تکرار همان واژه با همان معنا جناس نیست، تکرار است.",
+   "source": null,
+   "isCore": true,
+   "status": 1,
+   "suggestedByUserId": null,
+   "createDate": "2026-10-16T08:09:32.6416798",
+   "reviewNote": null,
+   "slots": [
+    {
+     "id": 13,
+     "deviceId": 6,
+     "key": "first",
+     "name": "واژهٔ اول",
+     "kind": 0,
+     "required": true,
+     "allowMultiple": false,
+     "order": 0
+    },
+    {
+     "id": 14,
+     "deviceId": 6,
+     "key": "second",
+     "name": "واژهٔ دوم",
+     "kind": 0,
+     "required": true,
+     "allowMultiple": false,
+     "order": 1
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "key": "tekrar",
+   "name": "تکرار",
+   "category": 1,
+   "definition": "تکرار آگاهانهٔ یک واژه یا عبارت با همان معنا.",
+   "example": "ردیف جدا برچسب نمی‌خورد و از ساختار شعر می‌آید.",
+   "source": null,
+   "isCore": true,
+   "status": 1,
+   "suggestedByUserId": null,
+   "createDate": "2026-10-16T08:09:32.6427392",
+   "reviewNote": null,
+   "slots": [
+    {
+     "id": 17,
+     "deviceId": 8,
+     "key": "occurrence",
+     "name": "جای تکرار",
+     "kind": 0,
+     "required": true,
+     "allowMultiple": true,
+     "order": 0
+    }
+   ]
+  }
+ ],
+ "paging": {}
+}

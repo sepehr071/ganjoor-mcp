@@ -1,0 +1,84 @@
+{
+ "data": [
+  {
+   "id": 27036,
+   "title": "پاره ۱",
+   "fullTitle": "رودکی » مثنوی‌ها » ابیات به جا مانده از مثنوی بحر هزج » پاره ۱",
+   "urlSlug": "sh1",
+   "fullUrl": "/roodaki/masnaviha/hzj/sh1",
+   "plainText": "شبی دیرند و ظلمت را مهیا\r\nچو نابینا درو دو چشم بینا",
+   "htmlText": "",
+   "sourceName": null,
+   "sourceUrlSlug": null,
+   "oldTag": null,
+   "oldTagPageUrl": null,
+   "mixedModeOrder": 0,
+   "published": false,
+   "language": null,
+   "poemSummary": null,
+   "category": {
+    "poet": {
+     "id": 12,
+     "name": "رودکی سمرقندی"
+    }
+   },
+   "next": null,
+   "previous": null,
+   "verses": null,
+   "recitations": null,
+   "images": null,
+   "songs": null,
+   "comments": null,
+   "sections": null,
+   "geoDateTags": null,
+   "top6QuotedPoems": null,
+   "sectionIndex": 0,
+   "claimedByMultiplePoets": false,
+   "coupletsCount": 1
+  },
+  {
+   "id": 106335,
+   "title": "شمارهٔ  ۱ - از مدایح",
+   "fullTitle": "عسجدی » اشعار باقیمانده » شمارهٔ  ۱ - از مدایح",
+   "urlSlug": "sh1",
+   "fullUrl": "/asjadi/baghimande/sh1",
+   "plainText": "به امید قبولت بکر فکرم\r\nچو بهر یوسف مصری زلیخا\r\nبه انواع نفایس خویشتن را\r\nبه سان نوعروسی کرده آسا\r\nکسی کز خدمتت دوری کند هیچ\r\nبر او دشمن شود گردون گردا",
+   "htmlText": "",
+   "sourceName": null,
+   "sourceUrlSlug": null,
+   "oldTag": null,
+   "oldTagPageUrl": null,
+   "mixedModeOrder": 0,
+   "published": false,
+   "language": null,
+   "poemSummary": null,
+   "category": {
+    "poet": {
+     "id": 125,
+     "name": "عسجدی مروزی"
+    }
+   },
+   "next": null,
+   "previous": null,
+   "verses": null,
+   "recitations": null,
+   "images": null,
+   "songs": null,
+   "comments": null,
+   "sections": null,
+   "geoDateTags": null,
+   "top6QuotedPoems": null,
+   "sectionIndex": 0,
+   "claimedByMultiplePoets": false,
+   "coupletsCount": 3
+  }
+ ],
+ "paging": {
+  "totalCount": 1444,
+  "pageSize": 2,
+  "currentPage": 1,
+  "totalPages": 722,
+  "hasPreviousPage": false,
+  "hasNextPage": true
+ }
+}

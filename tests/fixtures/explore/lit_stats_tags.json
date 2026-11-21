@@ -1,0 +1,76 @@
+{
+ "data": {
+  "total": 653,
+  "items": [
+   {
+    "tagId": 6,
+    "deviceId": 1,
+    "poemId": 2131,
+    "poemFullTitle": "حافظ » غزلیات » غزل شمارهٔ ۲",
+    "poemFullUrl": "/hafez/ghazal/sh2",
+    "poetId": 2,
+    "poetName": "حافظ شیرازی",
+    "coupletIndex": 5,
+    "hemistich1": "مَبین به سیبِ زَنَخدان که چاه در راه است",
+    "hemistich2": "کجا همی‌ رَوی ای دل بدین شتاب کجا؟",
+    "uncertain": false,
+    "note": null,
+    "parts": [
+     {
+      "slotName": "مشبّه",
+      "words": "زَنَخدان",
+      "conceptName": "زنخدان",
+      "conceptId": 7,
+      "misra": 1,
+      "wordStart": 4,
+      "wordEnd": 4
+     },
+     {
+      "slotName": "مشبّه‌به",
+      "words": "سیبِ",
+      "conceptName": "سیب",
+      "conceptId": 8,
+      "misra": 1,
+      "wordStart": 3,
+      "wordEnd": 3
+     }
+    ]
+   },
+   {
+    "tagId": 14,
+    "deviceId": 1,
+    "poemId": 2132,
+    "poemFullTitle": "حافظ » غزلیات » غزل شمارهٔ ۳",
+    "poemFullUrl": "/hafez/ghazal/sh3",
+    "poetId": 2,
+    "poetName": "حافظ شیرازی",
+    "coupletIndex": 5,
+    "hemistich1": "اگر دشنام فرمایی و گَر نفرین دعا گویم",
+    "hemistich2": "جوابِ تلخ می‌زیبَد لبِ لَعلِ شِکرخا را",
+    "uncertain": false,
+    "note": null,
+    "parts": [
+     {
+      "slotName": "مشبّه",
+      "words": "لبِ",
+      "conceptName": "لب",
+      "conceptId": 12,
+      "misra": 2,
+      "wordStart": 4,
+      "wordEnd": 4
+     },
+     {
+      "slotName": "مشبّه‌به",
+      "words": "لَعلِ",
+      "conceptName": "لعل",
+      "conceptId": 13,
+      "misra": 2,
+      "wordStart": 5,
+      "wordEnd": 5
+     }
+    ]
+   }
+  ]
+ },
+ "paging": {}
+}

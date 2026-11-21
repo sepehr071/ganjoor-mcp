@@ -1,0 +1,101 @@
+{
+ "data": [
+  {
+   "id": 23,
+   "urlSlug": null,
+   "rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)",
+   "name": null,
+   "description": null,
+   "verseCount": 186946
+  },
+  {
+   "id": 12,
+   "urlSlug": null,
+   "rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)",
+   "name": null,
+   "description": null,
+   "verseCount": 158788
+  },
+  {
+   "id": 6,
+   "urlSlug": null,
+   "rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)",
+   "name": null,
+   "description": null,
+   "verseCount": 151029
+  },
+  {
+   "id": 8,
+   "urlSlug": null,
+   "rhythm": "فاعلاتن فاعلاتن فاعلاتن فاعلن (رمل مثمن محذوف)",
+   "name": null,
+   "description": null,
+   "verseCount": 146102
+  },
+  {
+   "id": 3,
+   "urlSlug": null,
+   "rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)",
+   "name": null,
+   "description": null,
+   "verseCount": 143239
+  },
+  {
+   "id": 1,
+   "urlSlug": null,
+   "rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)",
+   "name": null,
+   "description": null,
+   "verseCount": 127305
+  },
+  {
+   "id": 9,
+   "urlSlug": null,
+   "rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)",
+   "name": null,
+   "description": null,
+   "verseCount": 118830
+  },
+  {
+   "id": 7,
+   "urlSlug": null,
+   "rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)",
+   "name": null,
+   "description": null,
+   "verseCount": 98206
+  },
+  {
+   "id": 2,
+   "urlSlug": null,
+   "rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)",
+   "name": null,
+   "description": null,
+   "verseCount": 66224
+  },
+  {
+   "id": 10,
+   "urlSlug": null,
+   "rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)",
+   "name": null,
+   "description": null,
+   "verseCount": 55442
+  },
+  {
+   "id": 24,
+   "urlSlug": null,
+   "rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)",
+   "name": null,
+   "description": null,
+   "verseCount": 53960
+  },
+  {
+   "id": 13,
+   "urlSlug": null,
+   "rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)",
+   "name": null,
+   "description": null,
+   "verseCount": 42782
+  }
+ ],
+ "paging": {}
+}

@@ -1,0 +1,50 @@
+{
+ "data": [
+  {
+   "id": "f05c3587-5781-43d7-5ce0-08d72c8f11bc",
+   "friendlyUrl": "loc-m021-hafez",
+   "status": 4,
+   "name": "دیوان حافظ به خط محمدرضا ابن عبدالعزیز مورخ ۱۲۱۶ هجری قمری",
+   "nameInEnglish": "دیوان حافظ به خط محمدرضا ابن عبدالعزیز مورخ ۱۲۱۶ هجری قمری",
+   "description": "Poems of Ḥāfiẓ.",
+   "descriptionInEnglish": "Poems of Ḥāfiẓ.",
+   "dateTime": "2019-08-29T18:06:46.174012",
+   "lastModified": "2026-08-25T18:43:11.2761767",
+   "coverItemIndex": 53,
+   "coverImage": {
+    "externalNormalSizeImageUrl": "https://i.ganjoor.net/images/loc-m021-hafez/norm/0054.jpg"
+   },
+   "coverImageId": "049acb70-e9be-4f24-722e-08d73eb936e9",
+   "items": null,
+   "itemCount": 485,
+   "tags": null
+  },
+  {
+   "id": "9c9a4a3b-e38f-47fc-ed3b-08d72caa7620",
+   "friendlyUrl": "loc-m110",
+   "status": 4,
+   "name": "منتخبی از اشعار سعدی، حافظ و جامی",
+   "nameInEnglish": "منتخبی از اشعار سعدی، حافظ و جامی",
+   "description": "Selection of poems from classical Persian poets.",
+   "descriptionInEnglish": "Selection of poems from classical Persian poets.",
+   "dateTime": "2019-08-30T11:02:34.2978656",
+   "lastModified": "2026-08-25T18:43:11.2761801",
+   "coverItemIndex": 7,
+   "coverImage": {
+    "externalNormalSizeImageUrl": "https://i.ganjoor.net/images/loc-m110/norm/0008.jpg"
+   },
+   "coverImageId": "af105177-cc19-4769-0572-08d72caa7627",
+   "items": null,
+   "itemCount": 347,
+   "tags": null
+  }
+ ],
+ "paging": {
+  "totalCount": 84,
+  "pageSize": 2,
+  "currentPage": 1,
+  "totalPages": 42,
+  "hasPreviousPage": false,
+  "hasNextPage": true
+ }
+}

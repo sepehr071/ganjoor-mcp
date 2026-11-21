@@ -1,0 +1,155 @@
+{
+ "data": [
+  {
+   "id": 109,
+   "poemId": 2132,
+   "poem": {
+    "id": 2132,
+    "fullTitle": "حافظ » غزلیات » غزل شمارهٔ ۳",
+    "fullUrl": "/hafez/ghazal/sh3"
+   },
+   "coupletIndex": 0,
+   "locationId": 37,
+   "location": {
+    "id": 37,
+    "name": "سمرقند",
+    "latitude": 39.627,
+    "longitude": 66.975,
+    "machineGenerated": false
+   },
+   "lunarYear": null,
+   "lunarMonth": null,
+   "lunarDay": null,
+   "lunarDateTotalNumber": null,
+   "verifiedDate": false,
+   "ignoreInCategory": false,
+   "personId": null,
+   "person": null,
+   "personMention": 0,
+   "machineGenerated": false,
+   "note": null,
+   "coupletText": null
+  },
+  {
+   "id": 110,
+   "poemId": 2132,
+   "poem": {
+    "id": 2132,
+    "fullTitle": "حافظ » غزلیات » غزل شمارهٔ ۳",
+    "fullUrl": "/hafez/ghazal/sh3"
+   },
+   "coupletIndex": 0,
+   "locationId": 38,
+   "location": {
+    "id": 38,
+    "name": "بخارا",
+    "latitude": 39.7681,
+    "longitude": 64.4556,
+    "machineGenerated": false
+   },
+   "lunarYear": null,
+   "lunarMonth": null,
+   "lunarDay": null,
+   "lunarDateTotalNumber": null,
+   "verifiedDate": false,
+   "ignoreInCategory": false,
+   "personId": null,
+   "person": null,
+   "personMention": 0,
+   "machineGenerated": false,
+   "note": null,
+   "coupletText": null
+  },
+  {
+   "id": 72114,
+   "poemId": 2132,
+   "poem": {
+    "id": 2132,
+    "fullTitle": "حافظ » غزلیات » غزل شمارهٔ ۳",
+    "fullUrl": "/hafez/ghazal/sh3"
+   },
+   "coupletIndex": 1,
+   "locationId": 152,
+   "location": {
+    "id": 152,
+    "name": "رکن‌آباد شیراز",
+    "latitude": 29.686278513,
+    "longitude": 52.550443647,
+    "machineGenerated": false
+   },
+   "lunarYear": null,
+   "lunarMonth": null,
+   "lunarDay": null,
+   "lunarDateTotalNumber": null,
+   "verifiedDate": false,
+   "ignoreInCategory": false,
+   "personId": null,
+   "person": null,
+   "personMention": 0,
+   "machineGenerated": false,
+   "note": null,
+   "coupletText": null
+  },
+  {
+   "id": 72115,
+   "poemId": 2132,
+   "poem": {
+    "id": 2132,
+    "fullTitle": "حافظ » غزلیات » غزل شمارهٔ ۳",
+    "fullUrl": "/hafez/ghazal/sh3"
+   },
+   "coupletIndex": 1,
+   "locationId": 153,
+   "location": {
+    "id": 153,
+    "name": "حافظیه (مصلی)",
+    "latitude": 29.62563,
+    "longitude": 52.55803,
+    "machineGenerated": false
+   },
+   "lunarYear": null,
+   "lunarMonth": null,
+   "lunarDay": null,
+   "lunarDateTotalNumber": null,
+   "verifiedDate": false,
+   "ignoreInCategory": false,
+   "personId": null,
+   "person": null,
+   "personMention": 0,
+   "machineGenerated": false,
+   "note": null,
+   "coupletText": null
+  },
+  {
+   "id": 77928,
+   "poemId": 2132,
+   "poem": {
+    "id": 2132,
+    "fullTitle": "حافظ » غزلیات » غزل شمارهٔ ۳",
+    "fullUrl": "/hafez/ghazal/sh3"
+   },
+   "coupletIndex": 0,
+   "locationId": 1,
+   "location": {
+    "id": 1,
+    "name": "شیراز",
+    "latitude": 29.5926,
+    "longitude": 52.5836,
+    "machineGenerated": false
+   },
+   "lunarYear": null,
+   "lunarMonth": null,
+   "lunarDay": null,
+   "lunarDateTotalNumber": null,
+   "verifiedDate": false,
+   "ignoreInCategory": false,
+   "personId": null,
+   "person": null,
+   "personMention": 0,
+   "machineGenerated": false,
+   "note": null,
+   "coupletText": null
+  }
+ ],
+ "paging": {}
+}

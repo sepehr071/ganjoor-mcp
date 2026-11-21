@@ -1,0 +1,40 @@
+{
+ "data": [
+  {
+   "id": "496c094b-c578-4ce2-1999-08dd624628b4",
+   "catId": 9,
+   "word": "که",
+   "count": 2940,
+   "rowNmbrInCat": 1
+  },
+  {
+   "id": "8dca6d56-0db8-4373-1997-08dd624628b4",
+   "catId": 9,
+   "word": "و",
+   "count": 2930,
+   "rowNmbrInCat": 2
+  },
+  {
+   "id": "64b5af07-aeb7-476d-19a2-08dd624628b4",
+   "catId": 9,
+   "word": "به",
+   "count": 2300,
+   "rowNmbrInCat": 3
+  },
+  {
+   "id": "b0d74f4b-c4c9-40ba-19ee-08dd624628b4",
+   "catId": 9,
+   "word": "از",
+   "count": 1759,
+   "rowNmbrInCat": 4
+  }
+ ],
+ "paging": {
+  "totalCount": 9500,
+  "pageSize": 4,
+  "currentPage": 1,
+  "totalPages": 2375,
+  "hasPreviousPage": false,
+  "hasNextPage": true
+ }
+}

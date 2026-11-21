@@ -1,0 +1,32 @@
+{
+ "data": [
+  {
+   "id": 36,
+   "name": "باغ",
+   "aliases": null,
+   "parentId": null,
+   "status": 1,
+   "createdByUserId": null,
+   "createDate": "2026-10-16T08:48:06.205966"
+  },
+  {
+   "id": 482,
+   "name": "باغبان",
+   "aliases": null,
+   "parentId": null,
+   "status": 1,
+   "createdByUserId": null,
+   "createDate": "2026-10-16T08:48:06.205966"
+  },
+  {
+   "id": 118,
+   "name": "چمن و باغ",
+   "aliases": null,
+   "parentId": null,
+   "status": 1,
+   "createdByUserId": null,
+   "createDate": "2026-10-16T08:48:06.205966"
+  }
+ ],
+ "paging": {}
+}

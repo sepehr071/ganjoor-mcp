@@ -1,0 +1,37 @@
+{
+ "data": [
+  {
+   "catId": 24,
+   "poetId": 2,
+   "name": "غزلیات",
+   "count": 209,
+   "rowNmbrInCat": 36,
+   "totalWordCount": 64515
+  },
+  {
+   "catId": 674,
+   "poetId": 2,
+   "name": "اشعار منتسب",
+   "count": 38,
+   "rowNmbrInCat": 30,
+   "totalWordCount": 9410
+  },
+  {
+   "catId": 26,
+   "poetId": 2,
+   "name": "رباعیات",
+   "count": 2,
+   "rowNmbrInCat": 133,
+   "totalWordCount": 1196
+  },
+  {
+   "catId": 25,
+   "poetId": 2,
+   "name": "قطعات",
+   "count": 1,
+   "rowNmbrInCat": 942,
+   "totalWordCount": 2037
+  }
+ ],
+ "paging": {}
+}

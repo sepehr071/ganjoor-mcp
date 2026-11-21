@@ -1,0 +1,119 @@
+{
+ "data": {
+  "totalTags": 3018,
+  "totalPoems": 511,
+  "devices": [
+   {
+    "deviceId": 3,
+    "tagCount": 949,
+    "poemCount": 399
+   },
+   {
+    "deviceId": 1,
+    "tagCount": 653,
+    "poemCount": 327
+   },
+   {
+    "deviceId": 2,
+    "tagCount": 601,
+    "poemCount": 314
+   },
+   {
+    "deviceId": 5,
+    "tagCount": 357,
+    "poemCount": 224
+   },
+   {
+    "deviceId": 6,
+    "tagCount": 254,
+    "poemCount": 187
+   },
+   {
+    "deviceId": 4,
+    "tagCount": 170,
+    "poemCount": 141
+   },
+   {
+    "deviceId": 11,
+    "tagCount": 9,
+    "poemCount": 6
+   },
+   {
+    "deviceId": 7,
+    "tagCount": 8,
+    "poemCount": 6
+   },
+   {
+    "deviceId": 10,
+    "tagCount": 6,
+    "poemCount": 4
+   },
+   {
+    "deviceId": 13,
+    "tagCount": 3,
+    "poemCount": 2
+   },
+   {
+    "deviceId": 9,
+    "tagCount": 2,
+    "poemCount": 2
+   },
+   {
+    "deviceId": 12,
+    "tagCount": 2,
+    "poemCount": 2
+   },
+   {
+    "deviceId": 8,
+    "tagCount": 1,
+    "poemCount": 1
+   },
+   {
+    "deviceId": 15,
+    "tagCount": 1,
+    "poemCount": 1
+   },
+   {
+    "deviceId": 16,
+    "tagCount": 1,
+    "poemCount": 1
+   },
+   {
+    "deviceId": 19,
+    "tagCount": 1,
+    "poemCount": 1
+   }
+  ],
+  "topConcepts": [
+   {
+    "conceptId": 36,
+    "name": "باغ",
+    "usageCount": 55
+   },
+   {
+    "conceptId": 11,
+    "name": "معشوق",
+    "usageCount": 54
+   },
+   {
+    "conceptId": 13,
+    "name": "لعل",
+    "usageCount": 52
+   }
+  ],
+  "totalConceptUses": 2691,
+  "poets": [
+   {
+    "poetId": 2,
+    "name": "حافظ شیرازی",
+    "tagCount": 2943
+   },
+   {
+    "poetId": 7,
+    "name": "سعدی شیرازی",
+    "tagCount": 50
+   }
+  ]
+ },
+ "paging": {}
+}

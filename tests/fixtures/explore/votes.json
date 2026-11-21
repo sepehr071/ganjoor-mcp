@@ -1,0 +1,35 @@
+{
+ "data": [
+  {
+   "recitationId": 3323,
+   "earlynessAdvantage": 7,
+   "initialScore": 100,
+   "upVotes": 8,
+   "mistakes": 0,
+   "totalScores": 115,
+   "computedOrder": 1,
+   "recitation": null
+  },
+  {
+   "recitationId": 742,
+   "earlynessAdvantage": 10,
+   "initialScore": 0,
+   "upVotes": 1,
+   "mistakes": 0,
+   "totalScores": 11,
+   "computedOrder": 2,
+   "recitation": null
+  },
+  {
+   "recitationId": 1781,
+   "earlynessAdvantage": 9,
+   "initialScore": 0,
+   "upVotes": 0,
+   "mistakes": 0,
+   "totalScores": 9,
+   "computedOrder": 3,
+   "recitation": null
+  }
+ ],
+ "paging": {}
+}

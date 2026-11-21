@@ -1,0 +1,35 @@
+{
+ "data": [
+  {
+   "verseOrder": 0,
+   "verseText": "غزل شمارهٔ ۱۷۰",
+   "audioStartMilliseconds": 0
+  },
+  {
+   "verseOrder": 1,
+   "verseText": "زاهدِ خلوت‌نشین، دوش به مِیخانه شد",
+   "audioStartMilliseconds": 0
+  },
+  {
+   "verseOrder": 2,
+   "verseText": "از سرِ پیمان بِرَفت، با سرِ پیمانه شد",
+   "audioStartMilliseconds": 5286
+  },
+  {
+   "verseOrder": 3,
+   "verseText": "صوفیِ مجلس که دی، جام و قدح می‌شکست",
+   "audioStartMilliseconds": 10686
+  },
+  {
+   "verseOrder": 4,
+   "verseText": "باز به یک جرعه می، عاقل و فرزانه شد",
+   "audioStartMilliseconds": 15036
+  },
+  {
+   "verseOrder": 5,
+   "verseText": "شاهدِ عهدِ شباب، آمده بودش به خواب",
+   "audioStartMilliseconds": 21036
+  }
+ ],
+ "paging": {}
+}

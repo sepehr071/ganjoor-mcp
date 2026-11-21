@@ -1,0 +1,127 @@
+{
+ "data": {
+  "nodes": [
+   {
+    "id": 1,
+    "name": "کیومرث",
+    "hasFamilyTree": true,
+    "directlyTagged": true,
+    "allusionOnly": false,
+    "importance": 1
+   },
+   {
+    "id": 2,
+    "name": "سیامک",
+    "hasFamilyTree": false,
+    "directlyTagged": true,
+    "allusionOnly": false,
+    "importance": 0
+   },
+   {
+    "id": 3,
+    "name": "خروزان دیو",
+    "hasFamilyTree": false,
+    "directlyTagged": true,
+    "allusionOnly": false,
+    "importance": 0
+   },
+   {
+    "id": 4,
+    "name": "هوشنگ",
+    "hasFamilyTree": false,
+    "directlyTagged": true,
+    "allusionOnly": false,
+    "importance": 0
+   },
+   {
+    "id": 5,
+    "name": "طهمورث",
+    "hasFamilyTree": false,
+    "directlyTagged": true,
+    "allusionOnly": false,
+    "importance": 0
+   },
+   {
+    "id": 6,
+    "name": "جمشید",
+    "hasFamilyTree": false,
+    "directlyTagged": true,
+    "allusionOnly": false,
+    "importance": 2
+   }
+  ],
+  "edges": [
+   {
+    "person1Id": 1,
+    "person1Name": "کیومرث",
+    "person2Id": 2,
+    "person2Name": "سیامک",
+    "category": "Relation",
+    "typeValue": 0,
+    "degreeHint": null,
+    "note": null
+   },
+   {
+    "person1Id": 2,
+    "person1Name": "سیامک",
+    "person2Id": 4,
+    "person2Name": "هوشنگ",
+    "category": "Relation",
+    "typeValue": 0,
+    "degreeHint": null,
+    "note": null
+   },
+   {
+    "person1Id": 4,
+    "person1Name": "هوشنگ",
+    "person2Id": 5,
+    "person2Name": "طهمورث",
+    "category": "Relation",
+    "typeValue": 0,
+    "degreeHint": null,
+    "note": "لقب هوشنگ پیشداد است و به همین دلیل تبار ایشان را پیشدادیان می‌خوانند."
+   },
+   {
+    "person1Id": 5,
+    "person1Name": "طهمورث",
+    "person2Id": 6,
+    "person2Name": "جمشید",
+    "category": "Relation",
+    "typeValue": 0,
+    "degreeHint": null,
+    "note": null
+   },
+   {
+    "person1Id": 1,
+    "person1Name": "کیومرث",
+    "person2Id": 4,
+    "person2Name": "هوشنگ",
+    "category": "Relation",
+    "typeValue": 3,
+    "degreeHint": null,
+    "note": null
+   },
+   {
+    "person1Id": 4,
+    "person1Name": "هوشنگ",
+    "person2Id": 3,
+    "person2Name": "خروزان دیو",
+    "category": "Affiliation",
+    "typeValue": 5,
+    "degreeHint": null,
+    "note": "هوشنگ خروزان دیو را به انتقام خون پدرش کشت"
+   },
+   {
+    "person1Id": 3,
+    "person1Name": "خروزان دیو",
+    "person2Id": 2,
+    "person2Name": "سیامک",
+    "category": "Affiliation",
+    "typeValue": 14,
+    "degreeHint": null,
+    "note": null
+   }
+  ]
+ },
+ "paging": {}
+}

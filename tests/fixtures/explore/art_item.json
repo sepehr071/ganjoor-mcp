@@ -1,0 +1,19 @@
+{
+ "data": {
+  "item": {
+   "name": "تصویر 2",
+   "order": 2,
+   "description": "",
+   "images": [
+    {
+     "externalNormalSizeImageUrl": "https://i.ganjoor.net/images/nowras/norm/0002.jpg"
+    }
+   ]
+  },
+  "parentName": "دیوان نورس دماوندی به شمارهٔ Or. 3644 کتابخانهٔ بریتانیا",
+  "parentItemCount": 344,
+  "nextItemFriendlyUrl": "p0003",
+  "previousItemFriendlyUrl": "p0001"
+ },
+ "paging": {}
+}

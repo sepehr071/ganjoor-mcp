@@ -1,0 +1,26 @@
+{
+ "data": [
+  {
+   "id": 157,
+   "name": "تنگ الله اکبر شیراز",
+   "latitude": 29.635619,
+   "longitude": 52.56185,
+   "machineGenerated": false
+  },
+  {
+   "id": 152,
+   "name": "رکن‌آباد شیراز",
+   "latitude": 29.686278513,
+   "longitude": 52.550443647,
+   "machineGenerated": false
+  },
+  {
+   "id": 1,
+   "name": "شیراز",
+   "latitude": 29.5926,
+   "longitude": 52.5836,
+   "machineGenerated": false
+  }
+ ],
+ "paging": {}
+}

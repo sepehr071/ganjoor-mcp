@@ -1,0 +1,18 @@
+[
+ {
+  "id": 5551917,
+  "poemId": 2299,
+  "poem": null,
+  "sectionIndex": 0,
+  "poetId": 2,
+  "relationOrder": 1,
+  "poetName": "حافظ",
+  "poetImageUrl": "/api/ganjoor/poet/image/hafez.gif",
+  "fullUrl": "/hafez/dibache",
+  "fullTitle": "حافظ » مقدّمهٔ جمع آورندهٔ دیوان حافظ",
+  "htmlExcerpt": "<p>حافظ خلوت‌نشین دوش به میخانه شد</p>\r\n<p>از سر پیمان برفت با سر پیمانه شد</p>",
+  "targetPoemId": 125448,
+  "targetSectionIndex": 11,
+  "poetMorePoemsLikeThisCount": 0
+ }
+]

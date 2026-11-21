@@ -1,0 +1,81 @@
+{
+ "data": {
+  "person": {
+   "id": 1,
+   "name": "کیومرث",
+   "description": null,
+   "wikiUrl": null,
+   "birthYearInLHijri": 0,
+   "deathYearInLHijri": 0,
+   "validBirthDate": false,
+   "validDeathDate": false,
+   "birthLocationId": null,
+   "birthLocation": null,
+   "deathLocationId": null,
+   "deathLocation": null,
+   "machineGenerated": false,
+   "familyTreeCaption": "پیشدادیان - تبار کیومرث",
+   "importance": 1,
+   "gender": 1,
+   "aliases": null
+  },
+  "relations": [
+   {
+    "id": 1,
+    "otherPersonId": 2,
+    "otherPersonName": "سیامک",
+    "relationType": 0,
+    "degreeHint": null,
+    "note": null,
+    "subjectIsPerson1": true,
+    "evidence": [
+     {
+      "id": 1,
+      "poemId": 1335,
+      "coupletIndex": 16,
+      "coupletText": "پسر بد مر او را یکی خوب‌روی هنرمند و همچون پدر نامجوی",
+      "masterCatId": 33,
+      "masterCatTitle": "شاهنامه",
+      "inferred": false
+     }
+    ],
+    "evidenceCount": 2,
+    "evidenceBooks": [
+     {
+      "masterCatId": 33,
+      "masterCatTitle": "شاهنامه"
+     }
+    ]
+   },
+   {
+    "id": 144,
+    "otherPersonId": 4,
+    "otherPersonName": "هوشنگ",
+    "relationType": 3,
+    "degreeHint": null,
+    "note": null,
+    "subjectIsPerson1": true,
+    "evidence": [
+     {
+      "id": 222,
+      "poemId": 1336,
+      "coupletIndex": 2,
+      "coupletText": "به نزد نیا یادگار پدر نیا پروریده مر او را به بر",
+      "masterCatId": 33,
+      "masterCatTitle": "شاهنامه",
+      "inferred": false
+     }
+    ],
+    "evidenceCount": 1,
+    "evidenceBooks": [
+     {
+      "masterCatId": 33,
+      "masterCatTitle": "شاهنامه"
+     }
+    ]
+   }
+  ],
+  "affiliations": []
+ },
+ "paging": {}
+}

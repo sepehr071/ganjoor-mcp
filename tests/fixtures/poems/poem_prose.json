@@ -1,0 +1,123 @@
+{
+ "id": 41294,
+ "title": "حکایت شمارهٔ ۱",
+ "fullTitle": "سعدی » گلستان » باب اول در سیرت پادشاهان » حکایت شمارهٔ ۱",
+ "urlSlug": "sh1",
+ "fullUrl": "/saadi/golestan/gbab1/sh1",
+ "plainText": null,
+ "htmlText": null,
+ "sourceName": "ویکی‌نبشته",
+ "sourceUrlSlug": "wikisource",
+ "oldTag": null,
+ "oldTagPageUrl": null,
+ "mixedModeOrder": 0,
+ "published": false,
+ "language": null,
+ "poemSummary": "سعدی در این متن از اهمیت بی‌همتای ایجاد دوستی و آشتی در میان مردم می‌گوید و حکایتی را روایت می‌کند که یک وزیر برای نجات جان یک زندانی به پادشاه دروغ می‌گوید و جان او را نجات می‌دهد و در سویی دیگر وزیری قرار دارد که برای دشمنی با وزیر اولی، راست می‌گوید. پادشاه در این میان، عمل وزیر اولی را پسندیده و پندی از دانایان و خردمندان را به‌آنها یادآوری می‌کند که دروغی که آشتی و صلح بیاورد بهتر از راستی‌است که بین مردم جنگ و فتنه ایجاد کند. ",
+ "category": {
+  "poet": {
+   "id": 7,
+   "name": "سعدی شیرازی",
+   "fullUrl": "/saadi",
+   "rootCatId": 118,
+   "nickname": "سعدی",
+   "published": true,
+   "imageUrl": "/api/ganjoor/poet/image/saadi.gif",
+   "birthYearInLHijri": 615,
+   "validBirthDate": false,
+   "deathYearInLHijri": 694,
+   "validDeathDate": false,
+   "pinOrder": 2,
+   "birthPlace": "شیراز",
+   "birthPlaceLatitude": 29.5926,
+   "birthPlaceLongitude": 52.5836,
+   "deathPlace": "شیراز",
+   "deathPlaceLatitude": 29.5926,
+   "deathPlaceLongitude": 52.5836
+  },
+  "cat": {
+   "id": 1666,
+   "title": "باب اول در سیرت پادشاهان",
+   "urlSlug": "gbab1",
+   "fullUrl": "/saadi/golestan/gbab1",
+   "tableOfContentsStyle": 2,
+   "catType": 0,
+   "description": null,
+   "descriptionHtml": null,
+   "mixedModeOrder": 0,
+   "published": true,
+   "bookName": null,
+   "rImageId": null,
+   "sumUpSubsGeoLocations": false,
+   "mapName": null,
+   "next": null,
+   "previous": null,
+   "ancestors": null,
+   "children": [],
+   "poems": null,
+   "paperSources": null,
+   "newImage": null
+  }
+ },
+ "next": {
+  "id": 41295,
+  "title": "حکایت شمارهٔ ۲",
+  "urlSlug": "sh2",
+  "excerpt": "یکی از ملوکِ خراسان محمودِ سبکتگین را به خواب چنان دید که جمله وجود او ریخته بود و خاک شده مگر چشمان او که همچنان در چشم‌خانه همی‌گردید و نظر می‌کرد. سایر حکما از تأویل این فروماندند مگر درویشی که به جای آورد و گفت: هنوز نگران است که مُلکش با دگران است.",
+  "mainSections": null
+ },
+ "previous": null,
+ "verses": [
+  {
+   "id": 2261101,
+   "vOrder": 1,
+   "coupletIndex": 0,
+   "versePosition": -1,
+   "sectionIndex1": null,
+   "sectionIndex2": null,
+   "sectionIndex3": null,
+   "sectionIndex4": null,
+   "text": "پادشاهی را شنیدم به کُشتنِ اسیری اشارت کرد. بیچاره در آن حالتِ نومیدی مَلِک را دشنام دادن گرفت و سَقَط گفتن، که گفته‌اند: هر که دست از جان بشوید، هر چه در دل دارد بگوید.",
+   "languageId": null,
+   "coupletSummary": "شنیده‌ام که پادشاهی به کشتن یک‌زندانی دستور داد؛ آن اسیر بیچاره در حالت ناامیدی و غم به پادشاه ناسزا گفت و دشنام‌ داد؛ (راست است‌که) گفته‌اند: «هرکس که از جان دست بشوید، هرچه در دل دارد، می‌گوید»",
+   "originalText": null
+  },
+  {
+   "id": 2260727,
+   "vOrder": 2,
+   "coupletIndex": 1,
+   "versePosition": 0,
+   "sectionIndex1": 0,
+   "sectionIndex2": null,
+   "sectionIndex3": null,
+   "sectionIndex4": null,
+   "text": "وقتِ ضرورت چو نَمانَد گریز",
+   "languageId": null,
+   "coupletSummary": "هنگام بیچارگی که راه گریز بسته شود، دستِ برهنه با شمشیر بُرنده درآویزد و به جنگ برخیزد.",
+   "originalText": null
+  }
+ ],
+ "recitations": null,
+ "images": null,
+ "songs": null,
+ "comments": null,
+ "sections": [
+  {
+   "index": 0,
+   "ganjoorMetre": {
+    "id": 19,
+    "urlSlug": null,
+    "rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)",
+    "name": null,
+    "description": null,
+    "verseCount": 20112
+   },
+   "rhymeLetters": "یز"
+  }
+ ],
+ "geoDateTags": [],
+ "top6QuotedPoems": [],
+ "sectionIndex": null,
+ "claimedByMultiplePoets": false,
+ "coupletsCount": null
+}
